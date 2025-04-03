@@ -89,8 +89,8 @@ POST /predict/
 ---
 
 ## 📸 Screenshots
-medApp\Screenshot (98).png
-medApp\Screenshot (99).png
+(medApp\Screenshot (98).png)
+(medApp\Screenshot (99).png)
 ---
 
 ## 🤝 Contributing
