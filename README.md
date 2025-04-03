@@ -89,12 +89,8 @@ POST /predict/
 ---
 
 ## 📸 Screenshots
-**Home Page**
-![Home Page](https://your-image-link.com/homepage.png)
-
-**Prediction Result**
-![Result](https://your-image-link.com/result.png)
-
+medApp\Screenshot (98).png
+medApp\Screenshot (99).png
 ---
 
 ## 🤝 Contributing
